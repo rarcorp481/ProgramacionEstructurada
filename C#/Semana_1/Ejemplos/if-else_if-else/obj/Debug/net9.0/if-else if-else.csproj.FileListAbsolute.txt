@@ -1,0 +1,14 @@
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\bin\Debug\net9.0\if-else if-else.exe
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\bin\Debug\net9.0\if-else if-else.deps.json
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\bin\Debug\net9.0\if-else if-else.runtimeconfig.json
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\bin\Debug\net9.0\if-else if-else.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\bin\Debug\net9.0\if-else if-else.pdb
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\obj\Debug\net9.0\if-else if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\obj\Debug\net9.0\if-else if-else.AssemblyInfoInputs.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\obj\Debug\net9.0\if-else if-else.AssemblyInfo.cs
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\obj\Debug\net9.0\if-else if-else.csproj.CoreCompileInputs.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\obj\Debug\net9.0\if-else if-else.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\obj\Debug\net9.0\refint\if-else if-else.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\obj\Debug\net9.0\if-else if-else.pdb
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\obj\Debug\net9.0\if-else if-else.genruntimeconfig.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\if-else_if-else\obj\Debug\net9.0\ref\if-else if-else.dll

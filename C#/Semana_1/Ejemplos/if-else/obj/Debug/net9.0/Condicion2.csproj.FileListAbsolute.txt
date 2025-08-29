@@ -1,0 +1,14 @@
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\bin\Debug\net9.0\Condicion2.exe
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\bin\Debug\net9.0\Condicion2.deps.json
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\bin\Debug\net9.0\Condicion2.runtimeconfig.json
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\bin\Debug\net9.0\Condicion2.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\bin\Debug\net9.0\Condicion2.pdb
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\obj\Debug\net9.0\Condicion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\obj\Debug\net9.0\Condicion2.AssemblyInfoInputs.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\obj\Debug\net9.0\Condicion2.AssemblyInfo.cs
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\obj\Debug\net9.0\Condicion2.csproj.CoreCompileInputs.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\obj\Debug\net9.0\Condicion2.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\obj\Debug\net9.0\refint\Condicion2.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\obj\Debug\net9.0\Condicion2.pdb
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\obj\Debug\net9.0\Condicion2.genruntimeconfig.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\condicion2\obj\Debug\net9.0\ref\Condicion2.dll

@@ -1,0 +1,14 @@
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\obj\Debug\net9.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\obj\Debug\net9.0\switch.AssemblyInfoInputs.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\obj\Debug\net9.0\switch.AssemblyInfo.cs
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\obj\Debug\net9.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\bin\Debug\net9.0\switch.exe
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\bin\Debug\net9.0\switch.deps.json
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\bin\Debug\net9.0\switch.runtimeconfig.json
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\bin\Debug\net9.0\switch.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\bin\Debug\net9.0\switch.pdb
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\obj\Debug\net9.0\switch.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\obj\Debug\net9.0\refint\switch.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\obj\Debug\net9.0\switch.pdb
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\obj\Debug\net9.0\switch.genruntimeconfig.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\switch\obj\Debug\net9.0\ref\switch.dll
