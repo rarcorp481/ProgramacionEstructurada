@@ -1,0 +1,14 @@
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\bin\Debug\net9.0\operador-ternario.exe
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\bin\Debug\net9.0\operador-ternario.deps.json
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\bin\Debug\net9.0\operador-ternario.runtimeconfig.json
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\bin\Debug\net9.0\operador-ternario.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\bin\Debug\net9.0\operador-ternario.pdb
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\obj\Debug\net9.0\operador-ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\obj\Debug\net9.0\operador-ternario.AssemblyInfoInputs.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\obj\Debug\net9.0\operador-ternario.AssemblyInfo.cs
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\obj\Debug\net9.0\operador-ternario.csproj.CoreCompileInputs.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\obj\Debug\net9.0\operador-ternario.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\obj\Debug\net9.0\refint\operador-ternario.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\obj\Debug\net9.0\operador-ternario.pdb
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\obj\Debug\net9.0\operador-ternario.genruntimeconfig.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejemplos\operador-ternario\obj\Debug\net9.0\ref\operador-ternario.dll
