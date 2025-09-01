@@ -1,0 +1,14 @@
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\bin\Debug\net8.0\volumenTanqueAgua.exe
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\bin\Debug\net8.0\volumenTanqueAgua.deps.json
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\bin\Debug\net8.0\volumenTanqueAgua.runtimeconfig.json
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\bin\Debug\net8.0\volumenTanqueAgua.dll
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\bin\Debug\net8.0\volumenTanqueAgua.pdb
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\obj\Debug\net8.0\volumenTanqueAgua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\obj\Debug\net8.0\volumenTanqueAgua.AssemblyInfoInputs.cache
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\obj\Debug\net8.0\volumenTanqueAgua.AssemblyInfo.cs
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\obj\Debug\net8.0\volumenTanqueAgua.csproj.CoreCompileInputs.cache
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\obj\Debug\net8.0\volumenTanqueAgua.dll
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\obj\Debug\net8.0\refint\volumenTanqueAgua.dll
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\obj\Debug\net8.0\volumenTanqueAgua.pdb
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\obj\Debug\net8.0\volumenTanqueAgua.genruntimeconfig.cache
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\4-volumenTanqueAgua\obj\Debug\net8.0\ref\volumenTanqueAgua.dll
