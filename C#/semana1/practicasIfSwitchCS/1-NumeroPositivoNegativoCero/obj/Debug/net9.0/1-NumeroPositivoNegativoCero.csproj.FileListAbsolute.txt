@@ -1,0 +1,14 @@
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\bin\Debug\net9.0\1-NumeroPositivoNegativoCero.exe
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\bin\Debug\net9.0\1-NumeroPositivoNegativoCero.deps.json
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\bin\Debug\net9.0\1-NumeroPositivoNegativoCero.runtimeconfig.json
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\bin\Debug\net9.0\1-NumeroPositivoNegativoCero.dll
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\bin\Debug\net9.0\1-NumeroPositivoNegativoCero.pdb
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\obj\Debug\net9.0\1-NumeroPositivoNegativoCero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\obj\Debug\net9.0\1-NumeroPositivoNegativoCero.AssemblyInfoInputs.cache
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\obj\Debug\net9.0\1-NumeroPositivoNegativoCero.AssemblyInfo.cs
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\obj\Debug\net9.0\1-NumeroPositivoNegativoCero.csproj.CoreCompileInputs.cache
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\obj\Debug\net9.0\1-NumeroPositivoNegativoCero.dll
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\obj\Debug\net9.0\refint\1-NumeroPositivoNegativoCero.dll
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\obj\Debug\net9.0\1-NumeroPositivoNegativoCero.pdb
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\obj\Debug\net9.0\1-NumeroPositivoNegativoCero.genruntimeconfig.cache
+C:\Users\rarco\Downloads\C#\semana1\practicasIfSwitchCS\1-NumeroPositivoNegativoCero\obj\Debug\net9.0\ref\1-NumeroPositivoNegativoCero.dll
