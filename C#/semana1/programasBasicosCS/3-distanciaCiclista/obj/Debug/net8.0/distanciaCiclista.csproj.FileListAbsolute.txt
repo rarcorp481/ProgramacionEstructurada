@@ -1,0 +1,14 @@
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\bin\Debug\net8.0\distanciaCiclista.exe
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\bin\Debug\net8.0\distanciaCiclista.deps.json
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\bin\Debug\net8.0\distanciaCiclista.runtimeconfig.json
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\bin\Debug\net8.0\distanciaCiclista.dll
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\bin\Debug\net8.0\distanciaCiclista.pdb
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\obj\Debug\net8.0\distanciaCiclista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\obj\Debug\net8.0\distanciaCiclista.AssemblyInfoInputs.cache
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\obj\Debug\net8.0\distanciaCiclista.AssemblyInfo.cs
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\obj\Debug\net8.0\distanciaCiclista.csproj.CoreCompileInputs.cache
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\obj\Debug\net8.0\distanciaCiclista.dll
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\obj\Debug\net8.0\refint\distanciaCiclista.dll
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\obj\Debug\net8.0\distanciaCiclista.pdb
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\obj\Debug\net8.0\distanciaCiclista.genruntimeconfig.cache
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\3-distanciaCiclista\obj\Debug\net8.0\ref\distanciaCiclista.dll
