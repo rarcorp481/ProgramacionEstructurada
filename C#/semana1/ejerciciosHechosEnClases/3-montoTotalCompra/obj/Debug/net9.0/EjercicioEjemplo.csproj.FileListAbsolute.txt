@@ -1,0 +1,14 @@
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\bin\Debug\net9.0\EjercicioEjemplo.exe
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\bin\Debug\net9.0\EjercicioEjemplo.deps.json
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\bin\Debug\net9.0\EjercicioEjemplo.runtimeconfig.json
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\bin\Debug\net9.0\EjercicioEjemplo.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\bin\Debug\net9.0\EjercicioEjemplo.pdb
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\obj\Debug\net9.0\EjercicioEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\obj\Debug\net9.0\EjercicioEjemplo.AssemblyInfoInputs.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\obj\Debug\net9.0\EjercicioEjemplo.AssemblyInfo.cs
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\obj\Debug\net9.0\EjercicioEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\obj\Debug\net9.0\EjercicioEjemplo.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\obj\Debug\net9.0\refint\EjercicioEjemplo.dll
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\obj\Debug\net9.0\EjercicioEjemplo.pdb
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\obj\Debug\net9.0\EjercicioEjemplo.genruntimeconfig.cache
+C:\Users\rarco\Downloads\Programacion_Estructurada\C#\Semana_1\Ejercicios\EjercicioEjemplo\obj\Debug\net9.0\ref\EjercicioEjemplo.dll
