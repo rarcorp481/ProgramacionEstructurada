@@ -1,0 +1,14 @@
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\bin\Debug\net8.0\areaTotalManzanas.exe
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\bin\Debug\net8.0\areaTotalManzanas.deps.json
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\bin\Debug\net8.0\areaTotalManzanas.runtimeconfig.json
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\bin\Debug\net8.0\areaTotalManzanas.dll
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\bin\Debug\net8.0\areaTotalManzanas.pdb
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\obj\Debug\net8.0\areaTotalManzanas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\obj\Debug\net8.0\areaTotalManzanas.AssemblyInfoInputs.cache
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\obj\Debug\net8.0\areaTotalManzanas.AssemblyInfo.cs
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\obj\Debug\net8.0\areaTotalManzanas.csproj.CoreCompileInputs.cache
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\obj\Debug\net8.0\areaTotalManzanas.dll
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\obj\Debug\net8.0\refint\areaTotalManzanas.dll
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\obj\Debug\net8.0\areaTotalManzanas.pdb
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\obj\Debug\net8.0\areaTotalManzanas.genruntimeconfig.cache
+C:\Users\rarco\Downloads\C#\semana1\programasBasicosCS\1-areaTotalManzanas\obj\Debug\net8.0\ref\areaTotalManzanas.dll
