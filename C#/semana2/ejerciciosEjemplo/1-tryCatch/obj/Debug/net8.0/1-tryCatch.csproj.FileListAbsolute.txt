@@ -1,0 +1,14 @@
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\bin\Debug\net8.0\1-tryCatch.exe
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\bin\Debug\net8.0\1-tryCatch.deps.json
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\bin\Debug\net8.0\1-tryCatch.runtimeconfig.json
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\bin\Debug\net8.0\1-tryCatch.dll
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\bin\Debug\net8.0\1-tryCatch.pdb
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\obj\Debug\net8.0\1-tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\obj\Debug\net8.0\1-tryCatch.AssemblyInfoInputs.cache
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\obj\Debug\net8.0\1-tryCatch.AssemblyInfo.cs
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\obj\Debug\net8.0\1-tryCatch.csproj.CoreCompileInputs.cache
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\obj\Debug\net8.0\1-tryCatch.dll
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\obj\Debug\net8.0\refint\1-tryCatch.dll
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\obj\Debug\net8.0\1-tryCatch.pdb
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\obj\Debug\net8.0\1-tryCatch.genruntimeconfig.cache
+E:\C#\semana2\EjerciciosSesiones\1-tryCatch\obj\Debug\net8.0\ref\1-tryCatch.dll
