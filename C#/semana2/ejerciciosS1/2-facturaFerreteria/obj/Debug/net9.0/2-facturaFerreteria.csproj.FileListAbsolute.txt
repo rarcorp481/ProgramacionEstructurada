@@ -1,0 +1,14 @@
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\bin\Debug\net9.0\2-facturaFerreteria.exe
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\bin\Debug\net9.0\2-facturaFerreteria.deps.json
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\bin\Debug\net9.0\2-facturaFerreteria.runtimeconfig.json
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\bin\Debug\net9.0\2-facturaFerreteria.dll
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\bin\Debug\net9.0\2-facturaFerreteria.pdb
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\obj\Debug\net9.0\2-facturaFerreteria.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\obj\Debug\net9.0\2-facturaFerreteria.AssemblyInfoInputs.cache
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\obj\Debug\net9.0\2-facturaFerreteria.AssemblyInfo.cs
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\obj\Debug\net9.0\2-facturaFerreteria.csproj.CoreCompileInputs.cache
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\obj\Debug\net9.0\2-facturaFerreteria.dll
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\obj\Debug\net9.0\refint\2-facturaFerreteria.dll
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\obj\Debug\net9.0\2-facturaFerreteria.pdb
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\obj\Debug\net9.0\2-facturaFerreteria.genruntimeconfig.cache
+E:\C#\semana2\ejerciciosS1\2-facturaFerreteria\obj\Debug\net9.0\ref\2-facturaFerreteria.dll
