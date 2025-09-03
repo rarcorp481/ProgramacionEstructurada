@@ -1,0 +1,14 @@
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\bin\Debug\net9.0\4-fechaEntregaObra.exe
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\bin\Debug\net9.0\4-fechaEntregaObra.deps.json
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\bin\Debug\net9.0\4-fechaEntregaObra.runtimeconfig.json
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\bin\Debug\net9.0\4-fechaEntregaObra.dll
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\bin\Debug\net9.0\4-fechaEntregaObra.pdb
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\obj\Debug\net9.0\4-fechaEntregaObra.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\obj\Debug\net9.0\4-fechaEntregaObra.AssemblyInfoInputs.cache
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\obj\Debug\net9.0\4-fechaEntregaObra.AssemblyInfo.cs
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\obj\Debug\net9.0\4-fechaEntregaObra.csproj.CoreCompileInputs.cache
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\obj\Debug\net9.0\4-fechaEntregaObra.dll
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\obj\Debug\net9.0\refint\4-fechaEntregaObra.dll
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\obj\Debug\net9.0\4-fechaEntregaObra.pdb
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\obj\Debug\net9.0\4-fechaEntregaObra.genruntimeconfig.cache
+E:\C#\semana2\ejerciciosS1\4-fechaEntregaObra\obj\Debug\net9.0\ref\4-fechaEntregaObra.dll

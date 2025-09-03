@@ -1,0 +1,18 @@
+FECHA DE ENTREGA PARA OBRA EN MANAGUA:
+
+EXCEPTION: 
+FormatExeption
+
+CONTEXTO: 
+Una ferretería en Carretera a Masaya (Managua) registra pedidos para entrega en obra; el personal debe ingresar la fecha de entrega en formato dd/MM/yyyy
+
+PROBLEMA REAL: 
+Si se ingresa un formato distinto (p. ej., 05-09-2025, 5/9/25, 2025/09/05), al convertir la fecha con ParseExact se produce una FormatException.
+
+TAREAS:
+- Solicite: fecha de entrega en formato dd/MM/yyyy.
+- Valide la fecha con ParseExact dentro de un try-catch; ante error, muestre mensaje claro y registre el incidente.
+- (Opcional) Reintente con TryParseExact para prevenir excepciones y guiar al usuario.
+- Entradas de ejemplo: 
+	Fecha de entrega: 05-09-2025
+- Resultado esperado, mensaje: “Formato inválido. Use exactamente dd/MM/yyyy (ej. 05/09/2025).”
