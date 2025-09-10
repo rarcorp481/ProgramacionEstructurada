@@ -1,0 +1,17 @@
+En la feria de emprendimiento del Parque Luis Alfonso Velásquez (Managua), una ferretería capta clientes interesados en conduit PVC y acccesorios: 
+algunos dejan el nombre vacío. 
+ 
+==PROBLEMA REAL==:
+Al intentar usar propiedades/métodos del nombre como Length, .ToUpper(). Si el valor es null se produce una NullReferenceException
+ 
+==TAREAS==: 
+- Solicite: nombre del cliente y número de WhatsApp.
+- Trate nombre vacío o con solo espacios como null.
+- Intente normalizar (mayúsculas y longitud) y maneje la NullReferenceException mostrando un mensaje claro y registrando el incidente. 
+- Entradas de ejemplo:
+		Nombre: (vacío)
+		WhatsApp: 8855-1122
+- Resultado esperado, mensaje: “Nombre no proporcionado. No es posible normalizar los datos del cliente.”
+
+
+		
